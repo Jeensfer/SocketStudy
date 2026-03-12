@@ -113,10 +113,16 @@ client_socket.close()
 ```
 
 ##Output
+
+
 ##Server 
+
+
 <img width="267" height="59" alt="image" src="https://github.com/user-attachments/assets/cc18013f-9c30-45bb-b5a0-e9da2382ea47" />
 
 ##Client
+
+
 <img width="522" height="52" alt="image" src="https://github.com/user-attachments/assets/2bb2b322-fa04-492d-967a-9be712b72a29" />
 
 
